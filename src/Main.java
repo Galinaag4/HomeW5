@@ -7,7 +7,7 @@ public class Main {
         three[2]=3;
         double [] weight = {1.57, 7.654, 9.986};
         int[] fruits = {5, 7, 12, 18};
-       //Задача 2
+        //Задача 2
         for (int i =0; i <3; i ++){
             System.out.print(three[i]+",");}
         System.out.print("\n");
@@ -17,7 +17,7 @@ public class Main {
         for (int z =0; z <4; z ++){
             System.out.print(fruits[z]+",");}
         System.out.print("\n");
-       //Задача 3
+        //Задача 3
         for (int i = 3 ; i > 0; i-- ){
             System.out.print(three[i-1]+",");}
         System.out.print("\n");
